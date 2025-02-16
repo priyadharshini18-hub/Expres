@@ -18,4 +18,4 @@ ExpRes is a decentralized, blockchain-based social media platform leveraging Res
 3. Run `npm build` and then `npm start`
 4. Backend should be available at `localhost:3000`.
 
-# To know more about the app checkout - https://medium.com/@priyadharshini6508/expres-a74414219787
+To know more about the app checkout - https://medium.com/@priyadharshini6508/expres-a74414219787
